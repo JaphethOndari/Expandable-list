@@ -1,0 +1,32 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: bisque;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 400px;
+    box-shadow: 10px 10px 25px 0px #3c3c3c;
+    background-color: white;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.cars-list{
+    display: none;
+}
+.clothes-list{
+    display: none;
+}
+.land-list{
+    display: none;
+}
+.elec-list{
+    display: none;
+}
